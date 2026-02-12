@@ -41,7 +41,7 @@ async def approve(_, m):
             user.id,
             f"👋 Hello • {user.first_name}\n\n"
             "🥀 Aapka join request approve ho gaya hai.\n"
-            "📩 Important info niche bheji gayi hai 👇"
+            "⚡️ Important info niche aa gayi hai 👇"
         )
 
         # ✅ PROMO / POSTS SEND
